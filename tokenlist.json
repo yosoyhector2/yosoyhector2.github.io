@@ -1,13 +1,13 @@
 {
-  "name": "Dummy Stablecoin Overrides",
-  "timestamp": "2025-05-16T00:00:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "name": "My Token List",
+  "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+  "keywords": ["dummy", "erc20"],
   "tokens": [
     {
       "chainId": 1,
       "address": "0x1C282e46c89ACe85e0Ff1b2e64925BC730e99556",
-      "symbol": "USDT",
       "name": "Tether USD",
+      "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
